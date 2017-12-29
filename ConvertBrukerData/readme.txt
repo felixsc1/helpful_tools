@@ -1,4 +1,4 @@
-Although there are several tools available to convert Bruker 2dseq files into a more standard format, each of the has some advantages and disadvantages.
+Although there are several tools available to convert Bruker 2dseq files into a more standard format, each has its own advantages and disadvantages.
 
 For most applications I would recommend this well maintained tool on https://github.com/neurolabusc/Bru2Nii
 
