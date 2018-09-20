@@ -1,2 +1,2 @@
 # helpful_tools
-Just some personal tools to make mouse fMRI work easier. Use at your own risk.
+Previously used tools for quick mouse fMRI analyses. Use at your own risk.
